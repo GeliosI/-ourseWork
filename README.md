@@ -21,7 +21,7 @@
 ```
 main.py [-h] [-file FILE] [-album_id ALBUM_ID] [-num NUM] {id,sn} identifier {yd,gd} save_folder
 
-Get a photo from vk and save it to yandex disk.
+Get a photo from vk and save it to yandex disk or google drive.
 
 positional arguments:
   {id,sn}             photo acquisition method: by owner id or by screen name
