@@ -15,6 +15,7 @@
 * `vkontakte` - функционал для работы с Vkontakte;
 * `main` - главный модуль проекта.
 
+Перед использованием необходимо заполнить соответствующими значенями файлы `tokens.ini` (токены для Vkontakte и Yandex Disk) и `cred.json` (данные для Google Drive)
 # Usage
 
 ```
