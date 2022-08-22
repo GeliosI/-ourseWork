@@ -31,7 +31,7 @@ def get_tokens_and_api_versions(file):
 
 
 def get_args():
-    parser = argparse.ArgumentParser(description="Get a photo from vk and save it to yandex disk.")
+    parser = argparse.ArgumentParser(description="Get a photo from vk and save it to yandex disk or google drive.")
 
     parser.add_argument('method', choices=['id', 'sn'],
                         help='photo acquisition method: by owner id or by screen name')
